@@ -1,0 +1,19 @@
+[package]
+name = "mse-hes-master-thesis"
+version = "0.1.0"
+entrypoint = "mse-hes-master-thesis.typ"
+authors = ["Loïc Fontaine"]
+license = "MIT"
+description = "Thesis template for MSE HES-SO master by Loïc Fontaine"
+repository = "https://github.com/ton-username/mse-master-thesis-typst"
+categories = ["thesis", "report"]
+keywords = ["thesis", "master", "bachelor", "MSE", "university", "HES-SO"]
+compiler = "0.13.0"
+exclude = [
+    "*.pdf",
+]
+
+[template]
+path = "template"
+entrypoint = "thesis.typ"
+thumbnail = "thumbnail.png"

@@ -43,7 +43,7 @@ Hello world
 ```
 
 
-## ⚙️ Configuration
+## Configuration
 
 You can customize the template using the following parameters:
 
@@ -83,7 +83,7 @@ You can customize the template using the following parameters:
 
 ---
 
-## 🌐 Language Support
+## Language Support
 
 Set the language using:
 

@@ -1,10 +1,10 @@
 [package]
-name = "mse-hes-master-thesis"
+name = "mse-hes-thesis"
 version = "0.1.0"
-entrypoint = "mse-hes-master-thesis.typ"
+entrypoint = "mse-hes-thesis.typ"
 authors = ["Loïc Fontaine"]
 license = "MIT"
-description = "Thesis template for MSE HES-SO master by Loïc Fontaine"
+description = "Master’s thesis for HES-SO MSE"
 repository = "https://github.com/ton-username/mse-master-thesis-typst"
 categories = ["thesis", "report"]
 keywords = ["thesis", "master", "bachelor", "MSE", "university", "HES-SO"]
@@ -14,6 +14,6 @@ exclude = [
 ]
 
 [template]
-path = "template"
+path = "example"
 entrypoint = "thesis.typ"
-thumbnail = "thumbnail.png"
+thumbnail = "preview.png"

@@ -1,7 +1,7 @@
-# HES-SO MSE Typst Template
+# HES-SO MSE Thesis
 
 <p align="center">
-  <img src="preview.jpg" alt="Template preview" width="700"/>
+  <img src="preview.png" alt="Template preview" width="700"/>
 </p>
 
 A clean and customizable Typst template for Master of Science in Engineering HES-SO thesis and reports.
@@ -24,7 +24,7 @@ A clean and customizable Typst template for Master of Science in Engineering HES
 ### Using the published package
 
 ```typst
-#import "@loic/mse-hes-master-thesis:0.1.0": report-template
+#import "@preview/mse-hes-master-thesis:0.1.0": report-template
 
 #show: report-template.with(
   title: "My Thesis Title",
@@ -48,7 +48,7 @@ Hello world
 You can customize the template using the following parameters:
 
 ```typst
-#import "@loic/mse-hes-master-thesis:0.1.0": report-template
+#import "@preview/mse-hes-thesis:0.1.0": report-template
 
 #show: report-template.with(
   title: "Title",
@@ -118,5 +118,5 @@ Check the `examples/` folder for sample documents using the template.
 This template is available as a Typst package:
 
 ```typst
-#import "@loic/mse-hes-master-thesis:0.1.0": report-template
+#import "@preview/mse-hes-thesis:0.1.0": report-template
 ```

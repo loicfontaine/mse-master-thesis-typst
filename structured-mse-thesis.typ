@@ -9,7 +9,7 @@
   company: "Company Name",
   body,
   state: "To be finalized",
-  file-name: "mse-hes-thesis.typ",
+  file-name: "structured-mse-thesis.typ",
   project-type: "Travail de Master",
   accent-color: rgb(40, 94, 151),
   acknowledgments: [#lorem(50)],

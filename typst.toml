@@ -1,7 +1,7 @@
 [package]
-name = "mse-hes-thesis"
+name = "structured-mse-thesis"
 version = "0.1.0"
-entrypoint = "mse-hes-thesis.typ"
+entrypoint = "structured-mse-thesis.typ"
 authors = ["Loïc Fontaine"]
 license = "MIT"
 description = "Master’s thesis for HES-SO MSE"
